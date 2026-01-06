@@ -31,6 +31,10 @@
 
 ## 📸 Screenshots
 
+<!-- Add your screenshots here -->
+| Dashboard View | Analysis Results | Mobile View |
+|:--------------:|:----------------:|:-----------:|
+| ![Dashboard](https://via.placeholder.com/400x250/1E3A8A/FFFFFF?text=Dashboard+View) | ![Analysis](https://via.placeholder.com/400x250/3B82F6/FFFFFF?text=Analysis+Results) | ![Mobile](https://via.placeholder.com/400x250/10B981/FFFFFF?text=Mobile+View) |
 
 ## 🛠️ Tech Stack
 
