@@ -10,7 +10,7 @@ load_dotenv()
 
 # Page configuration
 st.set_page_config(
-    page_title="AI Resume Critique Pro",
+    page_title="AI Resume Critique",
     page_icon="📄",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -499,7 +499,7 @@ Format with clear headers, bullet points, and use emojis for readability. Be con
 # Footer
 st.markdown("""
 <div class="footer">
-    <p>Built with ❤️ using Streamlit & Groq AI • Resume Critique Pro v1.0</p>
+    <p>Built with ❤️ using Streamlit & Groq AI by @nishtha911 • Resume Critique Pro v1.0</p>
     <p style='font-size: 0.8rem; color: #9CA3AF;'>
         Your resume data is processed securely and not stored.
     </p>
